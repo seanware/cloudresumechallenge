@@ -1,0 +1,50 @@
+1.  List your Cloud Associate Engineer Certification when you receive it
+
+2   Resume should be in HTML
+
+3   Use CSS styling maybe try bootstrap 5
+
+4   Deploy resume as a static website using Google Cloud storage
+
+5   Use HTTPs for security and a Cloud Load Balancer.  Also use a Cloud CDN
+
+6   Have a custom DNS and use Cloud Domains as DNS provider
+
+7   Create a visitor counter written in Javascript
+
+8   Use Firestore as a database to store and retrieve visitor counts
+
+9   Use Cloud Functions with and HTTP trigger to create and API to your Database
+
+10  Use Python in the Cloud Functions
+
+11  Test the python code(Use Smoke tests)
+
+12  Use Teeraform to automate the deployment of the resources
+
+13  Use version control to help setup CI/CD deployment for the backeend
+
+14  Use Cloud Build as a CI/CD backend
+
+15  Create a GitHub repo for the frontend code.  Use Cloud Build config file to update the website
+
+16  Write a blog post about what you learned during the process
+
+
+
+-------------------------
+Resume API
+Learn Terraform
+
+Github Actions for CI/CD
+Diagram lucidCharts or Draw.io
+Tag @forrestbrazeal
+
+API Gateway manages calls to serverless backends
+Monitoring
+API protections
+Separate environments Test, Dev, Porduction
+Lou Bichard youtube channel
+Daniel Dersch hire GCP clud engineer
+Find a niche product
+Cloud Storage site with HTTPs requires Cloud Load Balancer
